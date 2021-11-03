@@ -1,0 +1,2 @@
+LittleG file\problemstxt.txt
+LittleG file\solutionstxt.txt

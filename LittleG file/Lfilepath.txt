@@ -1,0 +1,4 @@
+D:\LittleG\Main LittleG\dictionary.py
+D:\LittleG\Main LittleG\LITTLEGOD.py
+D:\LittleG\Main LittleG\Main.py
+D:\LittleG\Main LittleG\neural.py
